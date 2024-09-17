@@ -9,7 +9,7 @@ const Navbar = () => {
   <ul className="nav__links">
     <li className="link">
       <a href="#">Inicio</a>
-    </li>
+            </li>
     <li className="link">
       <a href="#">Programas</a>
     </li>
@@ -25,6 +25,7 @@ const Navbar = () => {
   </ul>
   <button className="btn">Únete ahora</button>
 </nav>
+
     )
 }
 

@@ -86,7 +86,7 @@ nav {
 }
 
 .nav__logo {
-  max-width: 150px;
+  max-width: 100px;
 }
 
 .nav__links {
@@ -502,6 +502,7 @@ nav {
   display: grid;
   grid-template-columns: 400px repeat(3, 1fr);
   gap: 2rem;
+  padding-top: 100px;
 }
 
 .footer__blur {
@@ -510,7 +511,7 @@ nav {
 }
 
 .footer__logo {
-  max-width: 150px;
+  max-width: 100px;
   margin-bottom: 2rem;
 }
 

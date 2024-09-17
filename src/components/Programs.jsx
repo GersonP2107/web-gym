@@ -9,14 +9,6 @@ const Programs = () => {
         </font>
       </font>
     </h2>
-    <div className="explore__nav">
-      <span>
-        <i className="ri-arrow-left-line" />
-      </span>
-      <span>
-        <i className="ri-arrow-right-line" />
-      </span>
-    </div>
   </div>
   <div className="explore__grid">
     <div className="explore__card">
