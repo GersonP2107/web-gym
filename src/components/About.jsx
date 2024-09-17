@@ -17,7 +17,7 @@ const About = () => {
     </font>
   </p>
   <div className="join__image">
-    <img src="../public/join.jpeg" alt="Unirse" />
+    <img src="/join.jpeg" alt="Unirse" />
     <div className="join__grid">
       <div className="join__card">
         <span>

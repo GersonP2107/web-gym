@@ -5,7 +5,7 @@ const Footer = () => {
   <span className="bg__blur footer__blur" />
   <div className="footer__col">
     <div className="footer__logo">
-      <img src="../public/logo.png" alt="logo" />
+      <img src="/logo.png" alt="logo" />
     </div>
     <p>
       <font style={{ verticalAlign: "inherit" }}>

@@ -3,7 +3,7 @@ const Navbar = () => {
         <nav>
   <div className="nav__logo">
     <a href="#">
-      <img src="../public/logo.png" alt="logo" />
+      <img src="/logo.png" alt="logo" />
     </a>
   </div>
   <ul className="nav__links">

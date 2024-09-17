@@ -3,8 +3,8 @@ const Info = ( ) => {
         <section className="section__container class__container">
   <div className="class__image">
     <span className="bg__blur" />
-    <img src="../public/class-1.jpeg" alt="clase" className="class__img-1" />
-    <img src="../public/class-2.webp" alt="clase" className="class__img-2" />
+    <img src="/class-1.jpeg" alt="clase" className="class__img-1" />
+    <img src="/class-2.webp" alt="clase" className="class__img-2" />
   </div>
   <div className="class__content">
     <h2 className="section__header">

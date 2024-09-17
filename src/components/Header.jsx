@@ -36,7 +36,7 @@ const Header = () => {
     </button>
   </div>
   <div className="header__image">
-    <img src="../public/header2.png" alt="encabezamiento" />
+    <img src="/header2.png" alt="encabezamiento" />
   </div>
 </header>
 
