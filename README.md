@@ -1,9 +1,4 @@
 
----
-
-### README para **MegaFit**
-
-```markdown
 # MegaFit
 
 **Descripción**:  
