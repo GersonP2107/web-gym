@@ -20,14 +20,8 @@
    ```bash
    git clone https://github.com/tu-usuario/megafit.git
 
-
-## Instalación:
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/barbershop.git
 2. Navegar a la carpeta del proyecto:
-    cd barbershop
+    cd megafit
    
 3. Instalar las dependencias:
    npm install
@@ -36,4 +30,4 @@
   npm start
 
 ##Demo
-Puedes acceder a la demo en vivo aquí: https://barbershpp.netlify.app/
+Puedes acceder a la demo en vivo aquí: https://megafit.netlify.app/
